@@ -1,0 +1,11 @@
+#highscore-btn {
+  border: none;
+  background: none;
+}
+
+#start-btn {
+  background: gray;
+  color:black;
+  border-color: black;
+  border-radius: 10px;
+}
